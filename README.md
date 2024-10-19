@@ -22,6 +22,5 @@ This project is built with **HTML**, **CSS**, and **JavaScript** to provide a fu
 
 - **Responsive design**: The layout adjusts seamlessly across different screen sizes.
 - **Scroll animation**: Subtle animations using ScrollReveal.js to enhance the user experience.
-- **Call to action**: Simple and clear "Dine with Us" button to guide users to reservations or menu.
 - **Minimalistic design**: Focus on elegance and simplicity to align with the brand's image.
 
